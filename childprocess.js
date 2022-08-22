@@ -1,2 +1,2 @@
 let cp = require("child_process");
-cp.execSync("code")
+cp.execSync("code   ")

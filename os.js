@@ -1,3 +1,5 @@
+// for os related information we use os module
+
 let os = require("os");
 
 console.log(os.arch());
